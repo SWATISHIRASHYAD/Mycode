@@ -1,0 +1,14 @@
+list_of_airlines=["AI","SJ","JA","EM","AA"]
+new_list=list_of_airlines[1:4]
+print(new_list)
+new_list=list_of_airlines[-4:-1]
+print(new_list)
+print(list_of_airlines[1:])
+print(list_of_airlines[:7])
+print(list_of_airlines[:-2])
+print(list_of_airlines[-5:])
+print(list_of_airlines[1:-2])
+print(list_of_airlines[:5])
+print(list_of_airlines[-6:])
+print(list_of_airlines[-7:2])
+print(list_of_airlines[-3:5])
